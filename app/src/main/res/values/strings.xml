@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Biodata</string>
+    <string name="add_data">TAMBAH DATA</string>
+    <string name="selamat_datang_di_aplikasi_biodata">Selamat Datang Di Aplikasi Biodata</string>
+    <string name="welcometext">"Easily collect and organize Customer Biodata."</string>
+    <string name="next">Next</string>
+    <string name="export_all_data_to_csv">Export All Data TO CSV</string>
+    <string-array name="genders">
+        <item>"Select Gender"</item>
+        <item>Laki-laki</item>
+        <item>Perempuan</item>
+    </string-array>
+</resources>

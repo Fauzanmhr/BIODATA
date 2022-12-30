@@ -1,0 +1,4 @@
+<resources>
+    <integer name="fab_anim_duration">200</integer>
+</resources>
+

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@color/colorPrimary">
+
+
+    <TextView
+        android:id="@+id/txtTitle"
+        android:layout_width="311dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/selamat_datang_di_aplikasi_biodata"
+        android:textAlignment="center"
+        android:textColor="#fff"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/txtDescription"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="@string/welcometext"
+        android:textAlignment="center"
+        android:textColor="#fff"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/btnNext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:background="#00a000"
+        android:padding="12dp"
+        android:text="@string/next"
+        android:textColor="#fff" />
+
+</LinearLayout>
